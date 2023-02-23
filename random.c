@@ -16,8 +16,4 @@ srand(time(NULL));
 int result = random_int(max);
 printf("%d\n", result);
 return EXIT_SUCCESS;
-<<<<<<< HEAD
-}
-=======
-}
->>>>>>> e05fcc3d3e467d9bf957f61b10ff9de394bc8128
+
